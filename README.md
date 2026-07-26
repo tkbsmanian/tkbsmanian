@@ -25,7 +25,7 @@ An agent that answers D365 F&O configuration and support questions, grounded in 
 ---
 
 ## 📚 Also Building
-- [`knowledge-notes`](https://github.com/tkbsmanian/knowledge-notes) — curated summaries and takeaways from AI/ML papers, D365FO architecture whitepapers, and books I'm working through, organized by domain.
+- [`knowledge-notes`](https://github.com/tkbsmanian/knowledgenotes) — curated summaries and takeaways from AI/ML papers, D365FO architecture whitepapers, and books I'm working through, organized by domain.
 
 ---
 
